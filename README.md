@@ -2,17 +2,16 @@ Objetivos personales
 ==============
 
 Idea original de Una Kravets: [How Open Sourcing my personal Goals made me really productive](http://una.github.io/personal-goals-guide),
-de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristinafsanz) :)
+de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristinafsanz) y del que he copiado el [formato que tiene](https://github.com/cristinafsanz/personal-goals) . :blush: Está muy bien 
 
 # Objetivos para el curso 2017-2018
 1. Hacer mucho más deporte y obtener el siguiente título de Capoeira.
 2. Empezar un blog personal (Tecnología y cosas frikis) y tener al menos 1 post al mes publicado.
 3. Presentarme a un examen de inglés oficial (IELTS o FIRST). 
-4. Ir a clases de Filosofía de oyente y aprobar al menos 4 asignaturas de informática.
-5. Terminar DDatos y mejorar mi web personal.
+4. Ir a clases de Filosofía de oyente y aprobar al menos 4 asignaturas del grado de informática.
+5. Terminar [DDatos](http://ddatos.com) y rediseñar mi [web personal](http://www.wilderolmos.com).
 6. Mejorar notablemente en CSS3.
 
-### This Week's Goal: Terminar Player.
 
 # 4-10 de Septiembre 2017 
 ## Cosas que hacer:
@@ -28,7 +27,7 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 - [ ] Salir a correr al menos 2 veces :runner:
 - [ ] Asistir a [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) :clock5:
 
-# A final de Septiembre conseguiré:
+# Cuando termine septiembre conseguiré:
 
 - [ ] Escribir mi primer Post :postbox:
 - [ ] Matrícula de la universidad :office:
@@ -41,14 +40,14 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 
 - Preparación de las asignaturas de la universidad :books:
 - Preparación de las clases de inglés :notebook:
-- Elección del tema del primer post del blog :clipboard:
+- Elección del tema del primer Post del blog :clipboard:
 
-### Eventos 
--[ ] DCODE FEST :dancer:
--[ ] [Entrenamiento en grupo](https://www.meetup.com/Frontrunners-Running-LGTB-Madrid/events/242761642/?_locale=es-ES) Martes 5 de septiembre. 20:00
--[ ] [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) Jueves 7 Septiembre. 19:30
--[ ] [VueJS en 30 min](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) Martes 12 de Septiembre. 19:00
--[ ] [Software Freedom 2017](https://www.meetup.com/es-ES/Open-Source-Weekends/events/242949671/) Sábado 16 de septiembre. 10:30
+### Agenda
+- [ ] DCODE FEST :dancer: 
+- [ ] [Entrenamiento en grupo](https://www.meetup.com/Frontrunners-Running-LGTB-Madrid/events/242761642/?_locale=es-ES) Martes 5 de septiembre. 20:00
+- [ ] [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) Jueves 7 Septiembre. 19:30
+- [ ] [VueJS en 30 min](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) Martes 12 de Septiembre. 19:00
+- [ ] [Software Freedom 2017](https://www.meetup.com/es-ES/Open-Source-Weekends/events/242949671/) Sábado 16 de septiembre. 10:30
 
 ### Viajes
 Aun nada a la vista :cry:
