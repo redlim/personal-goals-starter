@@ -2,7 +2,7 @@ Objetivos personales
 ==============
 
 Idea original de Una Kravets: [How Open Sourcing my personal Goals made me really productive](http://una.github.io/personal-goals-guide),
-de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristinafsanz) y del que he copiado el [formato que tiene](https://github.com/cristinafsanz/personal-goals) . :blush: Está muy bien 
+de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristinafsanz) y del que he copiado el [formato que tiene](https://github.com/cristinafsanz/personal-goals) el cual está muy bien. :blush:
 
 # Objetivos para el curso 2017-2018
 1. Hacer mucho más deporte y obtener el siguiente título de Capoeira.
