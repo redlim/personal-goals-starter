@@ -1,42 +1,54 @@
-Personal Goals
+Objetivos personales
 ==============
 
-Personal goals made open source.
+Idea original de Una Kravets: [How Open Sourcing my personal Goals made me really productive](http://una.github.io/personal-goals-guide),
+de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristinafsanz) :)
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+# Objetivos para el curso 2017-2018
+1. Hacer mucho más deporte y obtener el siguiente título de Capoeira.
+2. Empezar un blog personal (Tecnología y cosas frikis) y tener al menos 1 post al mes publicado.
+3. Presentarme a un examen de inglés oficial (IELTS o FIRST). 
+4. Ir a clases de Filosofía de oyente y aprobar al menos 4 asignaturas de informática.
+5. Terminar DDatos y mejorar mi web personal.
+6. Mejorar notablemente en CSS3.
 
-# Overarching Goals
-1. Contribute to Open Source
-2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+### This Week's Goal: Terminar Player.
 
-# November 00, 2014
+# 4-10 de Septiembre 2017 
+## Cosas que hacer:
 
-### This Week's Goal: Be Awesome.
+- [ ] Consultar información de la UOC. :computer:
+- [ ] Consultar información de como preparar el examen de inglés. :email:
+- [ ] Apuntar horarios de clases de filosofía a las que puedo asistir. :date: 
+- [ ] Elegir framework para aprender (Posiblemente Vue) para desarrollar DDatos.
+- [ ] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
+- [ ] Elegir un libro/curso de CSS3. :memo: 
+- [ ] terminar player del trabajo. :computer:
+- [ ] limpiar casa a fondo. :hankey:
+- [ ] Salir a correr al menos 2 veces :runner:
+- [ ] Asistir a [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) :clock5:
 
-## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
-- [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide)
+# A final de Septiembre conseguiré:
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
-- [ ] Come up with a new side project
+- [ ] Escribir mi primer Post :postbox:
+- [ ] Matrícula de la universidad :office:
+- [ ] Primeras lecciones de Inglés y CSS3 :pencil:
+- [ ] Terminar Mapa de DDatos :herb:
+- [ ] Tener la casa limpia! :shit:
+- [ ] Haber asistido al menos a 6 clases de Capoeira :muscle:
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
+### En la trastienda:
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
+- Preparación de las asignaturas de la universidad :books:
+- Preparación de las clases de inglés :notebook:
+- Elección del tema del primer post del blog :clipboard:
+
+### Eventos 
+-[ ] DCODE FEST :dancer:
+-[ ] [Entrenamiento en grupo](https://www.meetup.com/Frontrunners-Running-LGTB-Madrid/events/242761642/?_locale=es-ES) Martes 5 de septiembre. 20:00
+-[ ] [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) Jueves 7 Septiembre. 19:30
+-[ ] [VueJS en 30 min](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) Martes 12 de Septiembre. 19:00
+-[ ] [Software Freedom 2017](https://www.meetup.com/es-ES/Open-Source-Weekends/events/242949671/) Sábado 16 de septiembre. 10:30
+
+### Viajes
+Aun nada a la vista :cry:
