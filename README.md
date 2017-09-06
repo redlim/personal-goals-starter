@@ -17,7 +17,7 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 ## Cosas que hacer:
 
 - [ ] Consultar información de la UOC. :computer:
-- [ ] Consultar información de como preparar el examen de inglés. :email:
+- [x] Consultar información de como preparar el examen de inglés. :email:
 - [ ] Apuntar horarios de clases de filosofía a las que puedo asistir. :date: 
 - [ ] Elegir framework para aprender (Posiblemente Vue) para desarrollar DDatos.
 - [ ] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
@@ -44,10 +44,10 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 
 ### Agenda
 - [ ] DCODE FEST :dancer: 
-- [ ] [Entrenamiento en grupo](https://www.meetup.com/Frontrunners-Running-LGTB-Madrid/events/242761642/?_locale=es-ES) Martes 5 de septiembre. 20:00
-- [ ] [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) Jueves 7 Septiembre. 19:30
-- [ ] [VueJS en 30 min](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) Martes 12 de Septiembre. 19:00
+- [x] [Entrenamiento en grupo](https://www.meetup.com/Frontrunners-Running-LGTB-Madrid/events/242761642/?_locale=es-ES) Martes 5 de septiembre. 20:00
+- [ ] [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) Jueves 7 Septiembre. 19:30 ?¿
+- [ ] [GDG Cloud Madrid Season 1 Episode 3](https://www.meetup.com/gdgcloudmadrid/events/241789873/?_locale=es-ES) Miércoles 13 de septiembre de 2017 
+- [ ] [VueJS en 30 min](https://www.meetup.com/es-ES/VueJS-Madrid/events/242801402/) Martes 12 de Septiembre. 19:00 ?¿
 - [ ] [Software Freedom 2017](https://www.meetup.com/es-ES/Open-Source-Weekends/events/242949671/) Sábado 16 de septiembre. 10:30
-
 ### Viajes
 Aun nada a la vista :cry:
