@@ -19,12 +19,12 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 - [ ] Consultar información de la UOC. :computer:
 - [x] Consultar información de como preparar el examen de inglés. :email:
 - [x] Apuntar horarios de clases de filosofía a las que puedo asistir. :date: 
-- [ ] Elegir framework para aprender (Posiblemente Vue) para desarrollar DDatos.
-- [ ] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
+- [x] Elegir framework para aprender (Posiblemente Vue) para desarrollar DDatos.
+- [x] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
 - [ ] Elegir un libro/curso de CSS3. :memo: 
-- [ ] terminar player del trabajo. :computer:
+- [x] terminar player del trabajo. :computer:
 - [x] limpiar casa a fondo. :hankey:
-- [ ] Salir a correr al menos 2 veces :runner:
+- [x] Salir a correr al menos 2 veces :runner:
 
 # Cuando termine septiembre conseguiré:
 
@@ -42,7 +42,7 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 - Elección del tema del primer Post del blog :clipboard:
 
 ### Agenda Septiembre
-- [ ] DCODE FEST :dancer: 
+- [x] DCODE FEST :dancer: 
 - [x] [Entrenamiento en grupo](https://www.meetup.com/Frontrunners-Running-LGTB-Madrid/events/242761642/?_locale=es-ES) Martes 5 de septiembre. 20:00
 - [ ] [Patrones de diseño para JS](https://www.meetup.com/es-ES/DevAcademyES/events/241267148/) Jueves 7 Septiembre. 19:30 ?¿
 - [ ] [GDG Cloud Madrid Season 1 Episode 3](https://www.meetup.com/gdgcloudmadrid/events/241789873/?_locale=es-ES) Miércoles 13 de septiembre de 2017 
