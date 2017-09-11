@@ -13,18 +13,14 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 6. Mejorar notablemente en CSS3.
 
 
-# 4-10 de Septiembre 2017 
+# 11-17 de Septiembre 2017 
 ## Cosas que hacer:
 
-- [ ] Consultar información de la UOC. :computer:
-- [x] Consultar información de como preparar el examen de inglés. :email:
-- [x] Apuntar horarios de clases de filosofía a las que puedo asistir. :date: 
-- [x] Elegir framework para aprender (Posiblemente Vue) para desarrollar DDatos.
-- [x] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
 - [ ] Elegir un libro/curso de CSS3. :memo: 
-- [x] terminar player del trabajo. :computer:
-- [x] limpiar casa a fondo. :hankey:
-- [x] Salir a correr al menos 2 veces :runner:
+- [ ] Consultar información de la UOC. :computer:
+- [ ] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
+- [ ] Esqueleto del primer post
+- [ ] Salir a correr 2 veces con el grupo
 
 # Cuando termine septiembre conseguiré:
 
@@ -33,13 +29,12 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 - [ ] Primeras lecciones de Inglés y CSS3 :pencil:
 - [ ] Terminar Mapa de DDatos :herb:
 - [ ] Tener la casa limpia! :shit:
-- [ ] Haber asistido al menos a 6 clases de Capoeira :muscle:
+- [ ] Haber asistido al menos a 6 clases de Capoeira :muscle: ?¿? (En duda)
 
 ### En la trastienda:
 
 - Preparación de las asignaturas de la universidad :books:
 - Preparación de las clases de inglés :notebook:
-- Elección del tema del primer Post del blog :clipboard:
 
 ### Agenda Septiembre
 - [x] DCODE FEST :dancer: 
