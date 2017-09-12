@@ -16,8 +16,8 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 # 11-17 de Septiembre 2017 
 ## Cosas que hacer:
 
-- [ ] Elegir un libro/curso de CSS3. :memo: 
-- [ ] Consultar información de la UOC. :computer:
+- [x] Elegir un libro/curso de CSS3. :memo: 
+- [x] Consultar información de la UOC. :computer:
 - [ ] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
 - [ ] Esqueleto del primer post
 - [ ] Salir a correr 2 veces con el grupo
