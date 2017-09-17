@@ -18,10 +18,10 @@ de la cual me enteré gracias a [Cristina Fernández](https://twitter.com/cristi
 
 - [x] Elegir un libro/curso de CSS3. :memo: 
 - [x] Consultar información de la UOC. :computer:
-- [ ] Elegir libro de lectura en inglés :book:
+- [X] Elegir libro de lectura en inglés :book:
 - [ ] Elegir una plantilla decente o quizás un CMS para wilderolmos.com
 - [ ] Esqueleto del primer post
-- [ ] Salir a correr 2 veces con el grupo
+- [X] Salir a correr 2 veces con el grupo
 
 # Cuando termine septiembre conseguiré:
 
